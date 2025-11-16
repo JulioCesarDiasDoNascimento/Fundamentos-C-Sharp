@@ -1,0 +1,14 @@
+D:\Projetos\Balta\MeuApp\bin\Debug\net9.0\MeuApp.exe
+D:\Projetos\Balta\MeuApp\bin\Debug\net9.0\MeuApp.deps.json
+D:\Projetos\Balta\MeuApp\bin\Debug\net9.0\MeuApp.runtimeconfig.json
+D:\Projetos\Balta\MeuApp\bin\Debug\net9.0\MeuApp.dll
+D:\Projetos\Balta\MeuApp\bin\Debug\net9.0\MeuApp.pdb
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfoInputs.cache
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.AssemblyInfo.cs
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.dll
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\refint\MeuApp.dll
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.pdb
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.genruntimeconfig.cache
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\ref\MeuApp.dll
