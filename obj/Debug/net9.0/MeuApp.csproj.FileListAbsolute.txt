@@ -12,3 +12,4 @@ D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\refint\MeuApp.dll
 D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.pdb
 D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.genruntimeconfig.cache
 D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\ref\MeuApp.dll
+D:\Projetos\Balta\MeuApp\obj\Debug\net9.0\MeuApp.sourcelink.json
