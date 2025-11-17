@@ -99,3 +99,11 @@ built-in types(São os padrões)
 
 > Var
 * var (subistitui qualquer tipo, ele assume o tipo do primeiro item atribuido a ele!)
+* Sempre tem que ser atribuido o valor na declaração da variavel
+
+> Object(Pode ser qualuqer coisa - não deve ser tão usado)
+* object (subistitui qualquer tipo, ele assume o tipo do primeiro item atribuido a ele!)
+* Ele pode ser qualquer coisa
+
+> Nullabel Types
+* 
