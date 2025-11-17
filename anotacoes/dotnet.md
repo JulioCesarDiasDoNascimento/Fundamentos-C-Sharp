@@ -75,5 +75,27 @@ built-in types(São os padrões)
     0 até 18,446,744,073,709,551,615
 )
 
-> Numeros Reais
-*
+> Numeros Reais(Recebem Negativos)
+* float (Notação F - Isso significa que para utilizar esse tipo tem que declarar o f no final do valor) (
+    -3.402823e38 até 3.402823e38
+)
+* double (
+    -1.79769313486232e308 até 1.79769313486232e308
+)
+* decimal (Notação M - Isso significa que para utilizar esse tipo tem que declarar o M no final do valor) (
+    (+ ou -)1.0 c10e-28 ate 7.9 x 10e28
+)
+
+> Boolean - Verdadeiro ou Falso
+* bool
+
+> Char
+* 1 Caracter - Não é muito usado!
+> * É colocado em aspas simples 'A';
+
+> String
+* string também é um texto(Uma lista de caracter)
+* Sempre com aspas duplas "texto"
+
+> Var
+* var (subistitui qualquer tipo, ele assume o tipo do primeiro item atribuido a ele!)
